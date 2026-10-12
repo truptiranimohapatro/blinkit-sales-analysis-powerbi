@@ -30,19 +30,10 @@ This project analyzes Blinkit grocery sales data in a single, filter-driven Powe
 
 | KPI | Value |
 |---|---|
-| 💰 Total Sales | ___ |
-| 📊 Average Sales | ___ |
-| 🔢 Number of Items | ___ |
-| ⭐ Average Rating | ___ |
-
-<p align="center">
-  <img src="KPI%20Images/kpi-1.png" width="45%">
-  <img src="KPI%20Images/kpi-2.png" width="45%">
-</p>
-<p align="center">
-  <img src="KPI%20Images/kpi-3.png" width="45%">
-  <img src="KPI%20Images/kpi-4.png" width="45%">
-</p>
+| 💰 Total Sales | 1.20M |
+| 📊 Average Sales | 141 |
+| 🔢 Number of Items | 8,523 |
+| ⭐ Average Rating | 3.9 |
 
 ---
 
@@ -61,23 +52,22 @@ This project analyzes Blinkit grocery sales data in a single, filter-driven Powe
 ## 🔍 Key Insights
 
 **Overall**
-- The dashboard covers ___ items with total sales of ___, an average of about ___ per item.
-- The average customer rating is ___.
+- The dashboard covers **8,523 items** with total sales of about **1.20M**, an average of about **141 per item**.
+- The average customer rating is about **3.9 out of 5**.
 
 **Item Fat Content**
-- ___ items (Low Fat / Regular) contribute the larger share of sales (___%).
+- **Low Fat items drive roughly 65% of sales**, while Regular items contribute about 35%.
 
 **Item Type**
-- ___ is the top-selling category, followed by ___ and ___.
-- ___ is the lowest-selling category.
+- **Fruits and Vegetables and Snack Foods** are the top-selling categories.
+- Everyday essentials like Household, Frozen Foods, and Dairy also contribute strongly.
+- Categories such as Breakfast and Seafood sit at the bottom.
 
 **Outlets**
-- ___ outlets (Small / Medium / High) generate the most sales (___%).
-- ___ cities (Tier 1 / Tier 2 / Tier 3) lead in sales.
-- ___ (Supermarket Type1 / Type2 / Type3 / Grocery Store) is the best-performing outlet type.
-
-**Time Patterns**
-- Outlets established in ___ show the highest sales.
+- **Medium-sized outlets** generate the largest share of sales (about 42%).
+- **Tier 3 cities** lead in sales, followed by Tier 2 and Tier 1.
+- **Supermarket Type1** is the best-performing outlet type by total sales.
+- Grocery Stores contribute the least.
 
 ---
 
