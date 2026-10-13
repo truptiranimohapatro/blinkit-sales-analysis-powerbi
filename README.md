@@ -26,17 +26,6 @@ This project analyzes Blinkit grocery sales data in a single, filter-driven Powe
 
 ---
 
-## 📌 Key Performance Indicators
-
-| KPI | Value |
-|---|---|
-| 💰 Total Sales | 1.20M |
-| 📊 Average Sales | 141 |
-| 🔢 Number of Items | 8,523 |
-| ⭐ Average Rating | 3.9 |
-
----
-
 ## 📈 Dashboard Features
 
 - 🎛️ **Interactive filter panel:** Outlet Size, Outlet Location Type, Outlet Type, Item Fat Content, Item Type
@@ -46,6 +35,37 @@ This project analyzes Blinkit grocery sales data in a single, filter-driven Powe
 - 🏪 **Outlet size share:** Percentage of sales by Small, Medium, and High outlets
 - 🗺️ **Location view:** Sales by Tier 1, Tier 2, and Tier 3 cities
 - 🏬 **Outlet type comparison:** Sales, average sales, items, rating, and item visibility by outlet type
+
+---
+
+## 🛠️ Tools & Technologies
+
+| Tool | Purpose |
+|---|---|
+| Microsoft Power BI | Dashboard building and visualization |
+| DAX | Calculating KPIs and measures |
+| Microsoft Excel | Raw data and initial cleaning |
+| Slicers | Interactive filtering |
+
+---
+
+## 🧹 Data Cleaning
+
+- Standardized inconsistent **Item Fat Content** labels (`LF`, `low fat` → **Low Fat**; `reg` → **Regular**)
+- Handled missing values in **Item Weight**
+- Checked zero values in **Item Visibility**
+- Verified data types for sales, rating, and year columns
+
+---
+
+## 📌 Key Performance Indicators
+
+| KPI | Value |
+|---|---|
+| 💰 Total Sales | 1.20M |
+| 📊 Average Sales | 141 |
+| 🔢 Number of Items | 8,523 |
+| ⭐ Average Rating | 3.9 |
 
 ---
 
@@ -77,17 +97,6 @@ This project analyzes Blinkit grocery sales data in a single, filter-driven Powe
 - Handled missing values in **Item Weight**
 - Checked zero values in **Item Visibility**
 - Verified data types for sales, rating, and year columns
-
----
-
-## 🛠️ Tools & Technologies
-
-| Tool | Purpose |
-|---|---|
-| Microsoft Power BI | Dashboard building and visualization |
-| DAX | Calculating KPIs and measures |
-| Microsoft Excel | Raw data and initial cleaning |
-| Slicers | Interactive filtering |
 
 ---
 
