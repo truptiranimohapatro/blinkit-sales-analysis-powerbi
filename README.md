@@ -102,7 +102,7 @@ This project analyzes Blinkit grocery sales data in a single, filter-driven Powe
 
 ## 📂 Dataset
 
-[⬇️ View Blinkit Raw Data (Google Drive)](https://docs.google.com/spreadsheets/d/1tdF_beuexr4n46cuZY8P-b8JCCYN-SNZ/edit?usp=sharing&ouid=110234731011492092452&rtpof=true&sd=true)
+[⬇️ View Blinkit Raw Data (Google Drive)](https://drive.google.com/drive/folders/1_p7_s0kA5s69zbt--OlooE1PVA-_v3Si?usp=sharing)
 
 **Columns:** Item Fat Content, Item Identifier, Item Type, Outlet Establishment Year, Outlet Identifier, Outlet Location Type, Outlet Size, Outlet Type, Item Visibility, Item Weight, Sales, Rating
 
