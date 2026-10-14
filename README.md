@@ -91,15 +91,6 @@ This project analyzes Blinkit grocery sales data in a single, filter-driven Powe
 
 ---
 
-## 🧹 Data Cleaning
-
-- Standardized inconsistent **Item Fat Content** labels (`LF`, `low fat` → **Low Fat**; `reg` → **Regular**)
-- Handled missing values in **Item Weight**
-- Checked zero values in **Item Visibility**
-- Verified data types for sales, rating, and year columns
-
----
-
 ## 📂 Dataset
 
 [⬇️ View Blinkit Raw Data (Google Drive)](https://drive.google.com/drive/folders/1_p7_s0kA5s69zbt--OlooE1PVA-_v3Si?usp=sharing)
